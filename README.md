@@ -1,12 +1,12 @@
 </p>
 <p align="center">
-  <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
+  <a href="[https://chat.whatsapp.com/EMxQEXoCihvFPHiPU9kgIj](https://chat.whatsapp.com/EMxQEXoCihvFPHiPU9kgIj)">
     <img alt=Support height="400" src="https://telegra.ph/file/dce77f7538019d05afe65.jpg"> 
     </p>
-<p align  = center> <a href="#"><img title="MALIK-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="ENGINEER-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MALIK+MD+WA+BOT.;CREATED+BY+ATA+UR+REHMAN+AND+TEAM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ENGINEER+MD+WA+BOT.;CREATED+BY+ENGINEER+UMAR+FAROOQ+AND+TEAM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
 
@@ -20,7 +20,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{arkham998}/count.svg" alt="arkhan998 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
+ <a href="https://chat.whatsapp.com/EMxQEXoCihvFPHiPU9kgIj" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Malik_Md Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
@@ -145,14 +145,14 @@
 ## Thanks To 
 1: Naveed Dogar
 
-**2:Thanks to excel owner of izuku md**
+**2:Thanks to excel owner of ENGINEER md**
 
-## ⚖️  *MALIK-MD - DEVELOPER TEAM* *2024*  ⚖️
+## ⚖️  *ENGINEER-MD - DEVELOPER TEAM* *2024*  ⚖️
 
 <div align="left">
   <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/arkhan998.png" width="200" height="200" alt="Ash"/></a>
   
-| [ATA-UR-REHMAN](https://github.com/arkhan998) |
+| [ENGINEER-UMAR-FAROOQ](https://github.com/euf302) |
 | Owner, Developer, Maintainer, updates|
 
 ---
@@ -187,14 +187,14 @@
     
  ***Tap On Logo To Contat Me***
  <p align="left">
-  <a href="akk728492@gmail.com">
+  <a href="engineer302world@gmail.com">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923124533358?text=Hi%20Ata-Ur-Rehman%20Sir...%20I%20need%20some%20help%20in%20Malik-MD">
+   <a href="https://wa.me/923257361764?text=Hi%20Ata-Ur-Rehman%20Sir...%20I%20need%20some%20help%20in%20Malik-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 
 <p align="left">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EMxQEXoCihvFPHiPU9kgIj" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
